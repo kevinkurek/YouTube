@@ -1,3 +1,5 @@
 *.csv
 *.DS_Store
 *.ipynb_checkpoints/
+
+!/Users/kevin/Dropbox/Github/YouTube/RobinhoodCollapse
