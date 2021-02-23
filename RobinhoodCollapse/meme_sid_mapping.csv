@@ -1,0 +1,5 @@
+Sid,Symbol,Exchange,Country,Currency,SecType,Etf,Timezone,Name,PriceMagnifier,Multiplier,Delisted,DateDelisted,LastTradeDate,RolloverDate
+FIBBG000B9XRY4,AAPL,XNAS,US,USD,STK,0,America/New_York,"APPLE INC",1,1,0,,,
+FIBBG000BB5BF6,GME,XNYS,US,USD,STK,0,America/New_York,"GAMESTOP CORP-CLASS A",1,1,0,,,
+FIBBG000BDTBL9,SPY,ARCX,US,USD,STK,1,America/New_York,"SPDR S&P 500 ETF TRUST",1,1,0,,,
+FIBBG000TDCVT6,AMC,XNYS,US,USD,STK,0,America/New_York,"AMC ENTERTAINMENT HLDS-CL A",1,1,0,,,
